@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>28140651852-f4adfls8eelakkvsiesmc8gqnht33s9t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.28140651852-f4adfls8eelakkvsiesmc8gqnht33s9t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>28140651852-59bpv95eqtiqqib21vg0diq02leeo2hc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1kEG13hUPPAVnVvbFIDLHA4qCHB-TFKs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>28140651852</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.speedshopper.app</string>
+	<key>PROJECT_ID</key>
+	<string>speed-shopper-214314</string>
+	<key>STORAGE_BUCKET</key>
+	<string>speed-shopper-214314.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:28140651852:ios:8db658be42394352</string>
+	<key>DATABASE_URL</key>
+	<string>https://speed-shopper-214314.firebaseio.com</string>
+</dict>
+</plist>

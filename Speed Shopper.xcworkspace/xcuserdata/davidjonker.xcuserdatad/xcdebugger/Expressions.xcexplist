@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SpeedShoppingListVC.tableView(_:cellForRowAt:):SpeedShoppingListVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "self.arrShoppingListItem.purchased">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SpeedShoppingListVC.viewWillLayoutSubviews():SpeedShoppingListVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.lbl_sstxEarned.frame.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MenuViewController.menuBtnTapped(_:):MenuViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SpeedShoppingListVC.tableView(_:numberOfRowsInSection:):SpeedShoppingListVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.arrShoppingListItem.purchased">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Apimanager.callApiPostMethod(str_Action:param:):ApiManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Apimanager.callApiPostMethod(str_Action:param:):ApiManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginVC.authorizationController(controller:didCompleteWithAuthorization:):LoginVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "appleIDCredential.email">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SpeedShoppingListVC.success_serverResponse(data:actionStr:):SpeedShoppingListVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.purchasePos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
